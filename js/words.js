@@ -19,17 +19,18 @@
    ========================================================= */
 
 const SPELLING_WORDS = [
-  { word: "Graph",   hint: "The teacher drew a graph to show our favorite fruits." },
-  { word: "Chick",   hint: "The baby chick followed its mother around the yard." },
-  { word: "Phrase",  hint: "Can you use that word in a phrase?" },
-  { word: "Wick",    hint: "The candle's wick burned brightly in the dark." },
-  { word: "Thing",   hint: "What is that strange thing on the table?" },
-  { word: "Song",    hint: "We sang our favorite song at the concert." },
-  { word: "Thick",   hint: "The thick blanket kept me warm all night." },
-  { word: "Bang",    hint: "We heard a loud bang from the kitchen." },
-  { word: "Sung",    hint: "She has sung that song many times before." },
-  { word: "Dolphin", hint: "The dolphin jumped high out of the ocean water." },
-  { word: "Viking",  hint: "The Viking sailed across the icy sea in his ship." },
+  { word: "Children", hint: "The children played tag on the playground at recess." },
+  { word: "Animal",   hint: "My favorite animal at the zoo is the giraffe." },
+  { word: "Salad",    hint: "Mom made a salad with lettuce and tomatoes for dinner." },
+  { word: "Camel",    hint: "The camel walked slowly across the hot desert sand." },
+  { word: "Lemon",    hint: "The lemon tasted so sour that I made a funny face." },
+  { word: "Bottom",   hint: "I found my lost sock at the bottom of the basket." },
+  { word: "Campus",   hint: "The college campus had big buildings and green lawns." },
+  { word: "Silent",   hint: "The library was silent while everyone read their books." },
+  { word: "Album",    hint: "Grandma showed us old pictures in her photo album." },
+  { word: "Festival", hint: "We ate cotton candy and rode rides at the festival." },
+  { word: "Women",    hint: "Two women waved to us from across the street." },
+  { word: "Carrot",   hint: "The bunny munched on a crunchy orange carrot." },
 ];
 
 // Expose on window explicitly (top-level `const` doesn't become a global
