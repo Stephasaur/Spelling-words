@@ -19,18 +19,18 @@
    ========================================================= */
 
 const SPELLING_WORDS = [
-  { word: "Children", hint: "The children played tag on the playground at recess." },
-  { word: "Animal",   hint: "My favorite animal at the zoo is the giraffe." },
-  { word: "Salad",    hint: "Mom made a salad with lettuce and tomatoes for dinner." },
-  { word: "Camel",    hint: "The camel walked slowly across the hot desert sand." },
-  { word: "Lemon",    hint: "The lemon tasted so sour that I made a funny face." },
-  { word: "Bottom",   hint: "I found my lost sock at the bottom of the basket." },
-  { word: "Campus",   hint: "The college campus had big buildings and green lawns." },
-  { word: "Silent",   hint: "The library was silent while everyone read their books." },
-  { word: "Album",    hint: "Grandma showed us old pictures in her photo album." },
-  { word: "Festival", hint: "We ate cotton candy and rode rides at the festival." },
-  { word: "Women",    hint: "Two women waved to us from across the street." },
-  { word: "Carrot",   hint: "The bunny munched on a crunchy orange carrot." },
+  { word: "Cell",    hint: "My mom keeps her cell phone in her purse." },
+  { word: "Space",   hint: "The astronaut flew a rocket into outer space." },
+  { word: "Range",   hint: "We could see a mountain range far away from the car window." },
+  { word: "Gent",    hint: "The kind gent held the door open for us at the store." },
+  { word: "Stretch", hint: "We stretch our arms and legs before we run in gym class." },
+  { word: "Scratch", hint: "The kitten tried to scratch the side of the couch." },
+  { word: "Splotch", hint: "I got a big splotch of blue paint on my shirt." },
+  { word: "Judge",   hint: "The judge picked the best cake at the baking contest." },
+  { word: "Bridge",  hint: "We walked across the bridge to get to the other side of the river." },
+  { word: "Pledge",  hint: "Our class says the pledge every morning." },
+  { word: "Giant",   hint: "The giant in the story was taller than the trees." },
+  { word: "Kitchen", hint: "Dad cooked pancakes in the kitchen this morning." },
 ];
 
 // Expose on window explicitly (top-level `const` doesn't become a global
