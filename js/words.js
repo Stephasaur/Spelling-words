@@ -19,18 +19,18 @@
    ========================================================= */
 
 const SPELLING_WORDS = [
-  { word: "Cell",    hint: "My mom keeps her cell phone in her purse." },
-  { word: "Space",   hint: "The astronaut flew a rocket into outer space." },
-  { word: "Range",   hint: "We could see a mountain range far away from the car window." },
-  { word: "Gent",    hint: "The kind gent held the door open for us at the store." },
-  { word: "Stretch", hint: "We stretch our arms and legs before we run in gym class." },
-  { word: "Scratch", hint: "The kitten tried to scratch the side of the couch." },
-  { word: "Splotch", hint: "I got a big splotch of blue paint on my shirt." },
-  { word: "Judge",   hint: "The judge picked the best cake at the baking contest." },
-  { word: "Bridge",  hint: "We walked across the bridge to get to the other side of the river." },
-  { word: "Pledge",  hint: "Our class says the pledge every morning." },
-  { word: "Giant",   hint: "The giant in the story was taller than the trees." },
-  { word: "Kitchen", hint: "Dad cooked pancakes in the kitchen this morning." },
+{ word: "bigger", hint: "My new puppy is much bigger than my old stuffed animal." },
+{ word: "biggest", hint: "That was the biggest pumpkin we saw at the patch." },
+{ word: "sadder", hint: "She felt even sadder after her favorite toy broke." },
+{ word: "saddest", hint: "That was the saddest movie I have ever watched." },
+{ word: "drummer", hint: "The drummer kept a steady beat for the whole song." },
+{ word: "drumming", hint: "I could hear the loud drumming coming from the band room." },
+{ word: "hugged", hint: "My mom hugged me tightly before I went to school." },
+{ word: "flopped", hint: "The tired dog flopped down on the soft rug." },
+{ word: "shredding", hint: "Dad was shredding old paper in the machine." },
+{ word: "admitted", hint: "He admitted that he ate the last cookie." },
+{ word: "swimmer", hint: "The fast swimmer won a gold medal at the pool." },
+{ word: "maddest", hint: "He was the maddest when he lost his favorite video game." }
 ];
 
 // Expose on window explicitly (top-level `const` doesn't become a global
